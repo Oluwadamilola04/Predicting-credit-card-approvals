@@ -88,6 +88,7 @@ Evaluated using:
 #### Best Parameters Found:
 ```text
 {'max_iter': 100, 'tol': 0.001}
+```
 - **Best cross-validation score:** 1.0  
 - **Test set accuracy remained:** 100%
 
