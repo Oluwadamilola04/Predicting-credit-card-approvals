@@ -3,7 +3,7 @@
 ## Problem Statement
 Banks receive many credit card applications. Reviewing every application manually takes time and can lead to inconsistent decisions. A bank needs a way to use information from previous applications to estimate whether a new application is likely to be approved or denied.
 
-This project explores how machine learning can support that process by learning patterns from historical credit card applications.
+This project explores how machine learning can support that process by learning patterns from historical credit card applications. 
 
 ## Project Goal
 Build a model that predicts whether a credit card application will be:
@@ -87,9 +87,7 @@ The confusion matrix and class-level metrics help show how well the model recogn
 
 ### Live App
 
-Add the deployed URL here after publishing the app:
-
-**[Open the Credit Card Approval Predictor](PASTE_YOUR_STREAMLIT_URL_HERE)**
+**[Open the Credit Card Approval Predictor](https://predicting-credit-card-approvals-4hwsipbajtgjads4tngqkq.streamlit.app/)**
 
 ### Run Locally
 
@@ -102,13 +100,6 @@ streamlit run app.py
 
 The app opens a form where a user can enter an example application and receive an estimated approval or denial result. The prediction is intended for demonstration only.
 
-### Publish with Streamlit Community Cloud
-
-1. Push this project to a public GitHub repository.
-2. Open [Streamlit Community Cloud](https://share.streamlit.io/).
-3. Select the repository and choose `app.py` as the main file.
-4. Deploy the app.
-5. Replace `PASTE_YOUR_STREAMLIT_URL_HERE` above with the generated app URL.
 
 ## Key Takeaways
 
